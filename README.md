@@ -3,7 +3,7 @@
 </div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h1 align="center">Hi 👋 ,<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Akmal Ameer! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
+<h1 align="center">Hi 👋 ,<br><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  I'm Akmal Ameer! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 <p align="center">
   Student | Web Developer | Cloud & AI Enthusiast | Workaholic | Dedicated | Goal Oriented | Passionate to contribute to cool projects | Big Dreams
